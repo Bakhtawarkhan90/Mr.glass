@@ -30,8 +30,8 @@ Sudo access
 
 ### Docker Installation
   ```bash
-sudo apt update
-sudo apt install docker.io -y
+sudo apt-get update
+sudo apt-get install docker.io -y
 sudo systemctl start docker
 sudo systemctl enable docker
 docker --version
