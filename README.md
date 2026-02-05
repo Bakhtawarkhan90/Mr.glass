@@ -41,6 +41,7 @@ docker --version
  ```bash
 sudo usermod -aG docker $USER
 newgrp docker
+sudo chown $USER /var/run/docker.sock
  ```
 
 ### Build Docker Image
