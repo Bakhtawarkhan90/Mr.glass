@@ -21,14 +21,14 @@ images/
 pdfs/
 Dockerfile
 
-# Getting Started
+## Getting Started
 
 Prerequisites
 Ubuntu / Linux system
 Internet connection
 Sudo access
 
-Docker Installation
+### Docker Installation
   ```bash
 sudo apt update
 sudo apt install docker.io -y
@@ -69,8 +69,8 @@ Docker for consistency
 Nginx for performance
 Static design for simplicity
 
-Author
-### Bakhtawar Khan
-
 ## Home Page
 ![glass](./glass.png)
+
+Author
+### Bakhtawar Khan
